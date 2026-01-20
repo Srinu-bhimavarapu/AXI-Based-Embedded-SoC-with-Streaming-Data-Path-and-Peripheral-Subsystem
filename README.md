@@ -138,6 +138,7 @@ cd AXI-Based-Embedded-SoC-with-Streaming-Data-Path
 Ensure directories remain unchanged:
 
 src/
+
 testbench/
 
 This structure reflects industry-style RTL organization.
